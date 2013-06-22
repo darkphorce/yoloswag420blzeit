@@ -1,0 +1,12 @@
+"skeleton"
+{
+	"base"		"graybox"
+	"title"		"New Gamemode"
+	"maps"		"^__"
+	"menusystem"	"1"
+
+	"settings"
+	{
+		// TODO: put some settings here
+	}
+}

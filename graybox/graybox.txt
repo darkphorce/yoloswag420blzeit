@@ -1,0 +1,12 @@
+"graybox"
+{
+	"base"		"base"
+	"title"		"Gray Box"
+	"maps"		"^__"
+	"menusystem"	"1"
+
+	"settings"
+	{
+		// TODO: put some settings here
+	}
+}
